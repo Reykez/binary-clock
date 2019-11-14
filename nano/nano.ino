@@ -1,6 +1,6 @@
 #include <Wire.h>
 
-/* (CZERWONE) --   A1   A2  A3  A6  A0
+/* (CZERWONE) --   A1   A2  A3  --  A0
  * (ŻÓŁTE)    D2   D3   D4  D5  D6  D7
  * (ZIELONE)  D8   D9   D10 D11 D12 D13
  */
