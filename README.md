@@ -25,3 +25,6 @@ Gotowe modele .STL przeznaczone do druku oraz plik projektu w FreeCAD'zie znajdu
 Łączny czas wydruku przy warstwie 0.3mm to około 5 godzin.
 Plik 'stand.stl' jest opcjonalny, i należy go wydrukować podwójnie.
 Całość należy skręcić czterema śrubami M4 20mm.
+
+![75388208_596220997786736_7961682598600638464_n](https://user-images.githubusercontent.com/44320848/68903996-0a929700-073d-11ea-8511-7c841a544c0e.jpg)
+![73372189_803674540065883_3925195372300861440_n](https://user-images.githubusercontent.com/44320848/68903999-0bc3c400-073d-11ea-8b3c-2f9098ea71fc.jpg)
